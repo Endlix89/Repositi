@@ -1,9 +1,17 @@
+### ANOTAÇÕES DAS AULAS - Aprendendo a usar Markdown
 
+####- **GIT/GITHUB**
 
+=======================================================================
 
-## Heading level 2
-ANOTAÇÕES DAS AULAS - Aprendendo a usar Markdown
+- O **Git** é um sistema que pode armazenar projetos e os códigos podem
+ 
+  ser modificados pelos usuarios sem sobreescrever os já existente.
 
-##### Heading level 5
-- **GIT/GITHUB**
+=======================================================================
 
+- O **GitHub** é uma plataforma de repositorio de dados, onde os codigos 
+
+  fontes podem ser alterados pelos usarios cadastrados e pode ser acessado
+  
+  de qualquer lugar do mundo.
